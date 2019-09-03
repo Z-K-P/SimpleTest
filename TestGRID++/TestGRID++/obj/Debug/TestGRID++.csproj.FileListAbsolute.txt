@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\bin\Debug\TestGRID++.exe.config
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\bin\Debug\TestGRID++.exe
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\bin\Debug\TestGRID++.pdb
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID__.TestGRID.resources
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.exe
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\TestGRID++.pdb
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\Interop.grdes6Lib.dll
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\Interop.gregn6Lib.dll
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\Interop.grsvr6Lib.dll
+C:\Users\Administrator\source\repos\TestGRID++\TestGRID++\obj\Debug\Interop.grweb6Lib.dll
