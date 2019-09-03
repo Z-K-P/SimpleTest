@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userlist>
+  <user username="a">
+    <test>testtext</test>
+  </user>
+  <user user1="a">
+    <username>一号</username>
+  </user>
+</userlist>
