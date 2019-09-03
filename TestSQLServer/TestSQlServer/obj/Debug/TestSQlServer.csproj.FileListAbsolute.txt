@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\bin\Debug\TestSQlServer.exe.config
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\bin\Debug\TestSQlServer.exe
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\bin\Debug\TestSQlServer.pdb
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.AddForm.resources
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.DataShow.resources
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.Testprocedure.DataShow.resources
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.UpdateForm.resources
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.exe
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.pdb
+C:\Users\Administrator\source\repos\TestSQlServer\TestSQlServer\obj\Debug\TestSQlServer.csprojAssemblyReference.cache
