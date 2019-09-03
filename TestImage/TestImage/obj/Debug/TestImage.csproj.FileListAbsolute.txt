@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.Form1.resources
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestImage\TestImage\bin\Debug\TestImage.exe.config
+C:\Users\Administrator\source\repos\TestImage\TestImage\bin\Debug\TestImage.exe
+C:\Users\Administrator\source\repos\TestImage\TestImage\bin\Debug\TestImage.pdb
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.exe
+C:\Users\Administrator\source\repos\TestImage\TestImage\obj\Debug\TestImage.pdb
