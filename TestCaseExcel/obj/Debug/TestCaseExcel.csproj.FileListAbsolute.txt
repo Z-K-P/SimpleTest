@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\TestCaseExcel.exe.config
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\TestCaseExcel.exe
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\TestCaseExcel.pdb
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\obj\Debug\TestCaseExcel.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\obj\Debug\TestCaseExcel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\obj\Debug\TestCaseExcel.exe
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\obj\Debug\TestCaseExcel.pdb
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\NPOI.dll
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\source\repos\TestWindos\TestCaseExcel\obj\Debug\TestCaseExcel.csproj.CopyComplete
