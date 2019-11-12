@@ -1,7 +1,0 @@
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
-E:\个人测试专用\WindowServer\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

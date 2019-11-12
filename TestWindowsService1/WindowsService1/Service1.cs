@@ -12,6 +12,9 @@ namespace WindowsService1
 {
     public partial class Service1 : ServiceBase
     {
+        /// <summary>
+        /// 服务初始化构造方法
+        /// </summary>
         public Service1()
         {
             InitializeComponent();

@@ -14,6 +14,7 @@ namespace TestCaseExcel
 {
     class CaseExcel
     {
+        FileStream fileStream;
             string filename = @"C:\Users\Administrator\Desktop\excel.xls";
         public void Writer()
         {
@@ -50,9 +51,9 @@ namespace TestCaseExcel
                     sheet.SetColumnWidth(0,20*256); //设置列宽,第一个值从0开始计数,第二个值为宽度
                 }
             }
-            FileStream filestream = new FileStream(filename, FileMode.OpenOrCreate);
-            workbook.Write(filestream); //将数据写入Excel表中
-            filestream.Close();
+            fileStream = new FileStream(filename, FileMode.OpenOrCreate);
+            workbook.Write(fileStream); //将数据写入Excel表中
+            fileStream.Close();
             workbook.Close();
         }
         public void Reader()
