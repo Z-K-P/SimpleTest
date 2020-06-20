@@ -42,8 +42,10 @@ namespace TestActiveMQ_MNS.Queue
             bool b = m_session.Transacted;
             //自动确认, 确认每一条消息被消费者消费，异步接收时，需要消费者try-catch，避免重复接收消息
             //m_session = m_connection.CreateSession(true,AcknowledgementMode.AutoAcknowledge);
+
             //手动确认, 确认一个被消费的消息, 将自动确认所有已被会话消费的消息
             //m_session = m_connection.CreateSessionAcknowledgementMode.ClientAcknowledge);
+
             // 自动批量确认，延迟确认，如果是重复的消息，那么必须把消息头的JMSRedelivered字段设置为true
             //m_session = m_connection.CreateSession(AcknowledgementMode.DupsOkAcknowledge);
         }
@@ -91,9 +93,6 @@ namespace TestActiveMQ_MNS.Queue
 
             //发送超时时间，默认等于0，如果设置超时，则所有的消息都是用同步发送
             //m_producer.RequestTimeout = new TimeSpan(1000*20);
-
-            
-
         }
     }
 }

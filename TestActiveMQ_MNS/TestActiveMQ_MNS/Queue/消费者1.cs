@@ -45,7 +45,7 @@ namespace TestActiveMQ_MNS.Queue
             //ITextMessage textMessage = (ITextMessage)m_consumer.Receive(new TimeSpan(1000*5));
 
             //异步消费
-            m_consumer.Listener += new MessageListener();
+            m_consumer.Listener += new MessageListener(Listener);
 
 
         }
